@@ -1,4 +1,7 @@
 dependencies:
+- name: bdd-nh-1576674109
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: engaging-bobcat
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
