@@ -13,7 +13,7 @@ dependencies:
   version: 0.0.1
 - name: corinnejs3
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.9
+  version: 0.0.10
 - name: corinnejs4
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
